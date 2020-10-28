@@ -1,0 +1,4 @@
+language: java 
+idk:
+	-openjdk8
+script: ant build 
